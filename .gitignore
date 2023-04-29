@@ -1,0 +1,4 @@
+gateway/node_modules
+userAuth-MS/node_modules
+userAuth-MS/dist
+userAuth-MS/.env
