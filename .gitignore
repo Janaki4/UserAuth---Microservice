@@ -2,3 +2,6 @@ gateway/node_modules
 userAuth-MS/node_modules
 userAuth-MS/dist
 userAuth-MS/.env
+friends-posts-MS/.env
+friends-posts-MS/dist
+friends-posts-MS/node_modules
