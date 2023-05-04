@@ -31,6 +31,13 @@ export interface FriendRequestInterface extends mongoose.Document  {
 }
 
 
+export interface postReactionInterface extends mongoose.Document  {
+    postId: String;
+    postAuthorId: String;
+    reactorId:String;
+}
+
+
 export interface PostInterface extends mongoose.Document { 
     description: string
     image: string
